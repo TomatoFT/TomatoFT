@@ -4,11 +4,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Data Science at UIT-VNUHCM, Vietnam. I am interested in Data Science, Artifitial Intelligent, Big Data and Software Development.
+🌱 I’m currently learning Data Science at UIT-VNUHCM, Vietnam. I am interested in Data Science, Artifitial Intelligent, Big Data and Software Development.
 
-- 📫 How to reach me **thomas.lezard.2002@gmail.com**
+📫 How to reach me **thomas.lezard.2002@gmail.com**
 
-- ⚡ Fun fact :- Nice Food and Music🎵 make me feel good.
+⚡ Fun fact :- Nice Food and Music🎵 make me feel good.
 
 <br>
 

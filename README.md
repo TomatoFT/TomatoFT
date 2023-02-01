@@ -29,7 +29,7 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
+<p style="background-color:gray;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height='50px' width='50px' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height='50px' width='50px' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height='50px' width='50px' />

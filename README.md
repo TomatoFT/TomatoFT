@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tan Chau</h1>
-<h2 align="center">Data Science student at UIT🌟.</h3>
+<h2 align="center">Software Engineer with Data Science skills.🌟.</h3>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
@@ -54,10 +54,7 @@
 
 <h3>Statistical Data</h3>
 
-<!-- <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TomatoFT&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="TomatoFT" /></p>
-<br> -->
+![](https://komarev.com/ghpvc/?username=TomatoFT)
 
 ![Tan Chau's github stats](https://github-readme-stats.vercel.app/api?username=TomatoFT&show_icons=true&theme=tokyonight)
 

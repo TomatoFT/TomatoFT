@@ -4,7 +4,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-🌱 I’m currently learning Data Science at UIT-VNUHCM, Vietnam. I am interested in Data Science, Artifitial Intelligent, Machine Learning, Big Data and Software Development.
+🌱 I’ve graudated at UIT-VNUHCM, Vietnam with Data Science Major. I am interested in Data Science, Artifitial Intelligent, Machine Learning, Big Data and Software Development. Currently, I am a Fullstack Software Engineer but I tend to prefer working in Backend and the System.
 
 📫 How to reach me **thomas.lezard.2002@gmail.com**
 

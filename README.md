@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tan Chau</h1>
-<h2 align="center"> Software Engineer</h2>
+<h2 align="center"> I am a Software Engineer</h2>
 
 
 ## About Me
@@ -45,36 +45,6 @@
 
 <br>
 
-## 🛠️ Tech Stack
-
-### Programming Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height='40px' width='40px' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height='40px' width='40px' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height='40px' width='40px'/>
-
-### Backend Development
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height='40px' width='40px'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height='40px' width='40px' />
-
-### Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height='40px' width='40px' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height='40px' width='40px'/>
-
-### Development Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height='40px' width='40px' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height='40px' width='40px'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height='40px' width='40px' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height='40px' width='40px' />
-
-### Data Science & ML (Additional Skills)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height='40px' width='40px' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height='40px' width='40px' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg" height='40px' width='40px'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height='40px' width='40px' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" height='40px' width='40px'/>
-
-### Testing & Automation
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height='40px' width='40px' />
 
 ---
 

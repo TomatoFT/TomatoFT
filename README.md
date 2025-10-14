@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tan Chau</h1>
-<h2 align="center"> I am a Software Engineer</h2>
+<h2 align="left">Hi 👋, I'm Tan Chau</h2>
 
 
 ## About Me

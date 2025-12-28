@@ -22,12 +22,6 @@
 ⚡ **Fun Fact:** Great food and music 🎵 fuel my creativity and problem-solving sessions
 
 
-## 📊 GitHub Analytics
-
-![](https://komarev.com/ghpvc/?username=TomatoFT)
-
-![Tan Chau's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TomatoFT&show_icons=true&theme=tokyonight)
-
 ## 🤝 Connect With Me
 
 <p align="left">
